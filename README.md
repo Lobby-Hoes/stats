@@ -14,12 +14,19 @@ Diese liste wird entsprechend Sortiert. (Es soll allerdings Hauptsächlich um di
 ### Zweitens
 Werden wir Alle Hobbylosfolgen (mit Hilfe von euch hoffentlich) indexieren und nach Themen sortieren, damit wir eine Übersicht über alle Folgen Inklusive Timecoes geben können. Dies würde ungefähr nach folgendem Schema ablaufen: 
 
-################################
+-----------------------Beispiel------------------------
 
-#### <b>Folgentitel</b>
+### <b>Folgentitel</b>
 ##### Thema 1 (z. B. DMs)
- -von: 
- -bis: 
- -Link mit Timecode, der zur passenden Stelle in der Folge führt (idk ob das möglich ist)
+ - von: 
+ - bis: 
+ - Link mit Timecode, der zur passenden Stelle in der Folge führt (idk ob das möglich ist)
 
 ##### Thema 2 (z. B. NEWS)
+ - von: 
+ - bis: 
+ - Link mit Timecode
+
+ usw
+
+ <b>Danke für alle Unterstützung die wir bekommen ❤️</b>
