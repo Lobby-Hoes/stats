@@ -20,7 +20,7 @@ Werden wir Alle Hobbylosfolgen (mit Hilfe von euch hoffentlich) indexieren und n
 ##### Thema 1 (z. B. DMs)
  - von: 
  - bis: 
- - Link mit Timecode, der zur passenden Stelle in der Folge führt (idk ob das möglich ist)
+ - Link mit Timecode, der zur passenden Stelle in der Folge führt (wir testen noch, ob dies möglich ist)
 
 ##### Thema 2 (z. B. NEWS)
  - von: 
@@ -29,4 +29,6 @@ Werden wir Alle Hobbylosfolgen (mit Hilfe von euch hoffentlich) indexieren und n
 
  usw
 
- <b>Danke für alle Unterstützung die wir bekommen ❤️</b>
+------------------------------------------------------------------------------------------------
+
+ <b>Danke für alle Unterstützung die wir bekommen ❤️<br>Erhabene Grüße</b>
