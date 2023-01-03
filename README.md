@@ -8,7 +8,7 @@ Die Daten werden vorraussichtlich noch zur verfügung gestellt
 ------------------------------------------------------------------------------------------------
 
 ### Erstens 
-Unser erster schrit wird voraussichtlich sein, dass wir zuerst eine Liste bereitstellen, in der man eine übersicht hat, in welcher Folge das erste und letzte mal ein Thema vorgekommen ist (wie z. B. der Mathefact)
+Unser erster Schritt wird voraussichtlich sein, dass wir zuerst eine Liste bereitstellen, in der man eine übersicht hat, in welcher Folge das erste und letzte mal ein Thema vorgekommen ist (wie z. B. der Mathefact)
 Diese liste wird entsprechend Sortiert. (Es soll allerdings Hauptsächlich um die intros gehen.)
 
 ### Zweitens
